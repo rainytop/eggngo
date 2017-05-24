@@ -694,7 +694,7 @@ span.hovicon {
     cursor: pointer;
     width: 90px;
     height: 90px;
-    border:2px solid #B5B5B5:
+    border:2px solid #B5B5B5;
     border-radius: 50%;
     text-align: center;
     position: relative;
