@@ -4,7 +4,7 @@
         <div class="container">
             <div class="header-main">
                 <div class="logo">
-                    <h1><a href="index.html">山东微山湖蛋品NGO</a></h1>
+                    <h1><a href="index.html" style="width: 620px;">山东微山湖蛋品公益机构</a></h1>
                 </div>
                 <div class="header-icons">
                     <ul>
